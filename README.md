@@ -10,9 +10,11 @@
 
 ### 2. [第三章 对象迭代与反迭代技巧训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter3.md)
 
-### 3. [第四章 字符串处理技巧训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter3.md)
+### 3. [第四章 字符串处理技巧训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter4.md)
 
+### 4. [第五章 文件I/O高效处理技巧训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter5.md)
 
+### 5. [第六章 csv，json，xml,excel高效解析与构建技巧训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter6.md)
 
 
 
