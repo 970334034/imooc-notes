@@ -16,6 +16,8 @@
 
 ### 5. [第六章 csv，json，xml,excel高效解析与构建技巧训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter6.md)
 
+### 6. [第7章 类与对象深度技术进阶训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter7.md)
+
 
 
 
