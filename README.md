@@ -18,9 +18,9 @@
 
 ### 6. [第7章 类与对象深度技术进阶训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter7.md)
 
+### 7. [第8章 多线程编程核心技术应用进阶训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter8.md)
 
-
-
+### 8. [第9章 装饰器使用技巧进阶训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter9.md)
 
 
 
