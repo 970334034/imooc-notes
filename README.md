@@ -5,7 +5,8 @@
 
 ### 详细课程请往 [慕课网](http://coding.imooc.com/class/chapter/62.html) 学习 :wind_chime:
 
-- Contents
+## Contents
+### 1. [第一章 课程介绍](http://coding.imooc.com/class/62.html#Anchor)
 
 ### 2. [第二章 数据结构与算法进阶训练](https://github.com/LewisTian/PythonAdvancedExercise/blob/master/Chapter2.md)
 - 2-1 如何在列表,字典, 集合中根据条件筛选数据
