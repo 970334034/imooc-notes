@@ -15,3 +15,8 @@
 ![](https://img.mukewang.com/szimg/5b5087650001171b20000560.jpg "Python3 实用编程技巧进阶")
 - [笔记](Python3PracticalAdvancedSkills)
 - 详细内容请往 [慕课网](https://coding.imooc.com/class/213.html) 学习 :wind_chime:
+
+### TypeScript 入门
+![](http://img.mukewang.com/583fcefd0001c1c906000338.jpg "TypeScript 入门")
+- [笔记](TypeScriptIntroduction)
+- 详细内容请往 [慕课网](http://www.imooc.com/learn/763) 学习 :wind_chime:
